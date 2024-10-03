@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello there. This is Mr. Chatbot. How can I help you?"
+    },
+    {
+      "question": "What's your favorite fruit?",
+      "answer": "Human beings are good fruits"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "I am Mr. Chatbot."
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm just a program, so I don't have feelings, but I'm here to help!"
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "sorry i dont have any sense of humor"
+    },
+    {
+      "question": "hi!",
+      "answer": "Hello there. I am Mr. Chatbot. How can I help you?"
+    },
+    {
+      "question": "okay",
+      "answer": "okay"
+    },
+    {
+      "question": "Hi there!",
+      "answer": "Hello there. This is Mr. Chatbot. How can I help you?"
+    },
+    {
+      "question": "Hey",
+      "answer": "Hello there. This is Mr. Chatbot. How can I help you?"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi there! How can I help you?"
+    },
+    {
+      "question": "hey",
+      "answer": "Hi there! How can I help you?"
+    },
+    {
+      "question": "what color are apple",
+      "answer": "red"
+    },
+    {
+      "question": "name a writer",
+      "answer": "William Shakespeare"
+    }
+  ]
+}
